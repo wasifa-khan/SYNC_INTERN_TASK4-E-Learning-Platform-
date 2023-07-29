@@ -1,0 +1,86 @@
+ /* #hackett(d968f923c99adba9) #css starts  */
+ .headerd968f923c99adba9 .btnReg{
+    background-color: #ff914f;
+    color: #E8F7F7
+}
+.headerd968f923c99adba9 .btnReg:hover{
+    color: #add8e6
+}
+/* #hackett(d968f923c99adba9) #css ends  */
+
+/* #apeli(4c8deeb2f4571930) #css starts  */
+
+.abouta4c8deeb2f4571930 .about{
+    border-radius: 12px; 
+    color: #E8F7F7;
+    background-color: #ff914f
+}
+.abouta4c8deeb2f4571930 a:hover{
+    color: #add8e6
+}
+/* #apeli(4c8deeb2f4571930) #css ends  */
+
+    /* #qadir(q0c8d3826c0d518b0) #css starts  */
+    .quickLinkq0c8d3826c0d518b0 .quicklink:hover {
+        background-color: #add8e6;
+        border: 2px solid #add8e6;
+       
+    }
+    .quickLinkq0c8d3826c0d518b0 .quicklink:hover a{
+        color: black
+    }
+
+    /* #qadir(q0c8d3826c0d518b0) #css ends  */
+
+    /* #pen(cb870d00581aabe8) #css starts  */
+    .productscb870d00581aabe8 .title {
+        color: #ff914f
+    }
+
+    .productscb870d00581aabe8 .btn-md {
+        color: #ff914f;
+        background: none;
+        border: 1px solid #add8e6
+    }
+
+    .productscb870d00581aabe8 .price-new {
+        color: #ff914f
+    }
+    /* #pen(cb870d00581aabe8) #css ends  */
+
+    /* #agun(e50d5193e4b9f737) #css starts  */
+.aboute50d5193e4b9f737 li {
+            background-image: url("https://i.ibb.co/v3cSthp/check-304167-1280.png")
+        }
+
+.aboute50d5193e4b9f737 .searchBtn{
+        background-color:#ff914f;
+        border-radius: 12px;
+        color: #E8F7F7;
+        padding: 6px 12px;
+        font-weight: bold
+    }
+    .aboute50d5193e4b9f737 .searchBtn:hover{      
+        color: #add8e6      
+    }
+@media (max-width: 767px) {
+    .aboute50d5193e4b9f737 .aboutIMG{
+        margin-top: 15px;
+}
+}
+/* #agun(e50d5193e4b9f737) #css ends  */
+
+/* #fanta(f439c65adee997571) #css starts */
+.footerf439c65adee997571{
+    overflow: hidden;
+}
+.footerf439c65adee997571 .footer-wrap h3 {
+    color: #EA0000;
+}
+.footerf439c65adee997571 .footer-links li a {  
+    color: #000000;   
+}
+.footerf439c65adee997571 .footer-category li a {
+    color: #000000;   
+}
+/* #fanta(f439c65adee997571) #css ends */
